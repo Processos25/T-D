@@ -31,7 +31,6 @@ body {
     min-width: 100%;
 }
 
-
 .container {
     display: flex;
     justify-content:center;
@@ -119,7 +118,6 @@ body {
 
 }
 
-
 .headline p {
     font-weight: 300;
     line-height: 1.5;
@@ -179,5 +177,4 @@ body {
     .headline h2, p {
        display: none;
     }
-
 }
